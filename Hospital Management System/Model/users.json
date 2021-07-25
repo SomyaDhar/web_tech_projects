@@ -1,0 +1,28 @@
+[{
+	"Id" 	: 12,
+	"name"	: "shomyo",
+	"email"	: "shomyodhar100@gmail.com",
+	"role"	: "Assistent Doctor",
+	"time"	: "10 am to 2.0pm",
+	"password": 123
+}, 
+
+{
+	"Id" 	: 13,
+	"name"	: "shorif",
+	"email"	: "shorif@aiub.edu",
+	"role"	: "Physicians",
+	"time"	: "12 am to 3.0pm",
+	"password" :  123
+},
+
+{
+	"Id" 	: 14,
+	"name"	: "mahtab",
+	"email"	: "mahtab@aiub.edu",
+	"role"	: "medicine",
+	"time"	: "4 pm to 10.00 pm",
+	"password" :  123
+}
+
+]
